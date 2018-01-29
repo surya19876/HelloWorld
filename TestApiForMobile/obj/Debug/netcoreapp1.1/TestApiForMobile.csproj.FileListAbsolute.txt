@@ -1,0 +1,9 @@
+c:\users\muralik\documents\visual studio 2017\Projects\TestApiForMobile\TestApiForMobile\bin\Debug\netcoreapp1.1\TestApiForMobile.deps.json
+c:\users\muralik\documents\visual studio 2017\Projects\TestApiForMobile\TestApiForMobile\bin\Debug\netcoreapp1.1\TestApiForMobile.runtimeconfig.json
+c:\users\muralik\documents\visual studio 2017\Projects\TestApiForMobile\TestApiForMobile\bin\Debug\netcoreapp1.1\TestApiForMobile.runtimeconfig.dev.json
+c:\users\muralik\documents\visual studio 2017\Projects\TestApiForMobile\TestApiForMobile\bin\Debug\netcoreapp1.1\TestApiForMobile.dll
+c:\users\muralik\documents\visual studio 2017\Projects\TestApiForMobile\TestApiForMobile\bin\Debug\netcoreapp1.1\TestApiForMobile.pdb
+c:\users\muralik\documents\visual studio 2017\Projects\TestApiForMobile\TestApiForMobile\obj\Debug\netcoreapp1.1\TestApiForMobile.csprojResolveAssemblyReference.cache
+c:\users\muralik\documents\visual studio 2017\Projects\TestApiForMobile\TestApiForMobile\obj\Debug\netcoreapp1.1\TestApiForMobile.AssemblyInfo.cs
+c:\users\muralik\documents\visual studio 2017\Projects\TestApiForMobile\TestApiForMobile\obj\Debug\netcoreapp1.1\TestApiForMobile.dll
+c:\users\muralik\documents\visual studio 2017\Projects\TestApiForMobile\TestApiForMobile\obj\Debug\netcoreapp1.1\TestApiForMobile.pdb
